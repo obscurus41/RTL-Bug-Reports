@@ -2,7 +2,7 @@
 
 This index lists **137 issue links** across **27 core or project groups**, based on the supplied issue list. It preserves the supplied core names and issue URLs. Issue descriptions are omitted, consistent with the cleaned CSV structure. The links and reported behavior have not been independently verified.
 
-See [bug_index_cleaned.csv](bug_index_cleaned.csv) for the core, repository, issue number, and URL for each entry.
+See [bug_index.csv](bug_index.csv) for the core, repository, issue number, and URL for each entry.
 
 ## Issues by core or project
 
